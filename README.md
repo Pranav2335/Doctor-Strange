@@ -1,13 +1,13 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Doctor-Strange!;Created+by+𝐂𝐫𝐚𝐳𝐲𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫ᠰ𝐓𝐆!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Doctor-Strange!;Created+by+𝙰𝙳𝙼𝙸𝙽ᠰ𝕻𝕽𝖛!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 <p align="center">
-  <img src="https://telegra.ph/file/8f6deb9d7fa796289a19b.jpg" alt="Strange">
+  <img src="https://telegra.ph/file/43a52a0192ec02e2fe0e1.jpg" alt="Strange">
 </p>
 <h1 align="center">
   <b>Doctor-Strange</b>
 </h1>
 
-<a href="https://t.me/czdbotz_support">
+<a href="https://t.me/Prv_35">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
 
 [![Stars](https://img.shields.io/github/stars/CrazyDeveloperTG/Doctor-Strange?style=flat-square&color=yellow)](https://github.com/CrazyDeveloperTG/Doctor-Strange/stargazers)
@@ -83,7 +83,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/CrazyDeveloperTG/Doctor-Strange">
+<a href="https://heroku.com/deploy?template=https://github.com/Pranav2335/Doctor-Strange">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p></details>
@@ -91,14 +91,14 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Koyeb</summary>
 <br>
 <p>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CrazyDeveloperTG/Doctor-Strange&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]&env[COLLECTION_NAME]=Telegram_files&env[FILE_CHANNEL]=-1001832732995&env[SUPPORT_CHAT]&env[IMDB]=True&env[IMDB_TEMPLATE]&env[SINGLE_BUTTON]=True&env[AUTH_GROUPS]&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=doctor-strainge">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Pranav2335/Doctor-Strange&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URI]&env[DATABASE_NAME]&env[COLLECTION_NAME]=Telegram_files&env[FILE_CHANNEL]=-1001832732995&env[SUPPORT_CHAT]&env[IMDB]=True&env[IMDB_TEMPLATE]&env[SINGLE_BUTTON]=True&env[AUTH_GROUPS]&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=main&name=doctor-strainge">
  <img src="https://www.koyeb.com/static/images/deploy/button.svg">
 </p>
 </details>
 <details><summary> Deploy To Okteto </summary>
 <br>
 <p>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/CrazyDeveloperTG/Doctor-Strange&branch=main">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/Pranav2335/Doctor-Strange&branch=main">
   <img src="https://okteto.com/develop-okteto.svg" alt="Develop on Okteto">
 </a>
 </p>
@@ -106,7 +106,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/CrazyDeveloperTG/Doctor-Strange
+git clone https://github.com/Pranav2335/Doctor-Strange
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
