@@ -14,7 +14,7 @@ class script(object):
 ✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Owner_PM_Bot'>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/quickfastt'>Qᴜɪᴄᴋ Fᴀsᴛ</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/Prv_35'>Qᴜɪᴄᴋ Fᴀsᴛ</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
