@@ -582,15 +582,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('× ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ➕️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ᴏᴡɴ ɪɴғᴏ', url='https://t.me/Owner_PM_Bot')
+            InlineKeyboardButton('🪄 sᴇᴀʀᴄʜ🪄', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('👑ᴏᴡɴ ɪɴғᴏ👑', url='https://t.me/Owner_PM_Bot')
         ], [
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('⚙️ʜᴇʟᴘ⚙️', callback_data='help'),
+            InlineKeyboardButton('🫣ᴀʙᴏᴜᴛ🫣', callback_data='about')
          ],[
-            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/Prv_35')
+            InlineKeyboardButton('🥹sᴜᴘᴘᴏʀᴛ🥹', url='https://t.me/Prv_35')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -1069,10 +1069,10 @@ async def auto_filter(client, msg, spoll=False):
     )
     btn.insert(1, 
          [
-             InlineKeyboardButton(f'ɪɴꜰᴏ', 'reqinfo'),
-             InlineKeyboardButton(f'ᴍᴏᴠɪᴇ', 'minfo'),
-             InlineKeyboardButton(f'sᴇʀɪᴇs', 'sinfo'),
-             InlineKeyboardButton(f'ᴛɪᴘs', 'tinfo')
+             InlineKeyboardButton(f'💚ɪɴꜰᴏ', 'reqinfo'),
+             InlineKeyboardButton(f'❤️ᴍᴏᴠɪᴇ', 'minfo'),
+             InlineKeyboardButton(f'💜ꜱᴇʀɪᴇꜱ', 'sinfo'),
+             InlineKeyboardButton(f'🖤ᴛɪᴘꜱ', 'tinfo')
          ]
     )
 
@@ -1082,7 +1082,7 @@ async def auto_filter(client, msg, spoll=False):
         req = message.from_user.id if message.from_user else 0
         btn.append(
             [InlineKeyboardButton(text=f" 1/{math.ceil(int(total_results) / 10)}", callback_data="pages"),
-             InlineKeyboardButton(text="𝓝𝓮𝔁𝓽 ⪼", callback_data=f"next_{req}_{key}_{offset}")]
+             InlineKeyboardButton(text="𝙽𝙴𝚇𝚃☞", callback_data=f"next_{req}_{key}_{offset}")]
         )
     else:
         btn.append(
